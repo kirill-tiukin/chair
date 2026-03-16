@@ -58,7 +58,7 @@ export default function Hero() {
         {/* CTA buttons */}
         <div className="flex flex-wrap items-center gap-3 mb-12 opacity-0 animate-fade-up-delay-5">
           <a
-            href="https://www.thesubath.com/resources/electionscommittee/"
+            https://www.thesubath.com/elections/ballot/1934/55175/"
             className="inline-flex items-center gap-2 px-7 py-3.5 btn-vote-grad text-white rounded-full text-sm font-bold shadow-[0_4px_20px_rgba(212,168,67,0.3)] hover:-translate-y-0.5 hover:shadow-[0_8px_32px_rgba(212,168,67,0.45)] transition-all duration-200"
           >
             🗳 Vote for Kirill
