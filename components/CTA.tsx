@@ -22,7 +22,7 @@ export default function CTA() {
 
         <div className="flex flex-wrap gap-3">
           <a
-            href="https://www.thesubath.com/resources/electionscommittee/"
+            https://www.thesubath.com/elections/ballot/1934/55175/"
             className="inline-flex items-center gap-2 px-8 py-4 btn-vote-grad text-white rounded-full text-base font-bold shadow-[0_4px_20px_rgba(212,168,67,0.35)] hover:-translate-y-0.5 hover:shadow-[0_8px_32px_rgba(212,168,67,0.5)] transition-all duration-200"
           >
             🗳 Vote for Kirill
