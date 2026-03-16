@@ -121,7 +121,7 @@ export default function Navbar() {
           ))}
           <li className="pt-2">
             <a
-              https://www.thesubath.com/elections/ballot/1934/55175/"
+              href="https://www.thesubath.com/elections/ballot/1934/55175/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 w-full text-sm font-bold text-white btn-vote-grad py-3 rounded-full shadow-[0_4px_20px_rgba(212,168,67,0.3)]"
